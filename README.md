@@ -5,7 +5,6 @@ I currently work on the [Serenity](https://github.com/serenity-rs/serenity) proj
 Right now I'm interested in learning 3D modeling with [Blender](https://www.blender.org/) to create my own chracters.
 
 In the future I plan to write a GUI that looks similar to YouTube's web player for [MPV](https://github.com/mpv-player/mpv) (Perhaps once it is migrated to Rust)
-
-![Flats's Overview](https://raw.githubusercontent.com/Flat/github-stats/master/generated/overview.svg)
-
-![Flats's Overview](https://raw.githubusercontent.com/Flat/github-stats/master/generated/languages.svg)
+| Overview | Languages |
+| -------- | --------- |
+|![Flats's Overview](https://raw.githubusercontent.com/Flat/github-stats/master/generated/overview.svg) | ![Flats's Overview](https://raw.githubusercontent.com/Flat/github-stats/master/generated/languages.svg)
